@@ -1,4 +1,4 @@
-![SwannHtetAung](https://github.com/SwannHtetAungss/SwannHtetAungss/blob/main/IMG_20200309_174755.jpg)
+// ![SwannHtetAung](https://github.com/SwannHtetAungss/SwannHtetAungss/blob/main/IMG_20200309_174755.jpg)
 <h1 align="center">Hi 👋, I'm Swann Htet Aung</h1>
 <h3 align="center">I am Web and Mobile Developer in Myanmar.</h3>
 
