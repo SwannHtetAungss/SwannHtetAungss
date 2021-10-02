@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swann Htet Aung</h1>
 <h3 align="center">I am Web and Mobile Developer in Myanmar.</h3>
 
-- 🌱 I’m currently learning **Flutter, Python, React , node.js**
+- 🌱 I’m currently learning **Flutter, Python, React **
 
 - 👨‍💻 All of my projects are available at [swannhtetaung.me](swannhtetaung.me)
 
